@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **nishant64563@gmail.com** For Collaboration/Project or Any
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nishantkumar012&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nishantkumar012&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantkumar012&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantkumar012&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&hide=cpp)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
