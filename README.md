@@ -32,4 +32,5 @@ Email Me 👉 ✉️ **nishant64563@gmail.com** For Collaboration/Project or Any
 
 ### GitHub Activity Graph
 ![Nishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishantkumar012&theme=tokyo-night)
-### GitHub Contributions
+### GitHub Activity Graph
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishantkumar012&theme=tokyo-night)
