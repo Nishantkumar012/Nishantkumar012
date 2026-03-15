@@ -30,7 +30,6 @@ Email Me 👉 ✉️ **nishant64563@gmail.com** For Collaboration/Project or Any
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+### GitHub Activity Graph
+![Nishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nishantkumar012&theme=tokyo-night)
 ### GitHub Contributions
-<p align="center">
-<img src="https://ssr-contributions-svg.vercel.app/_/Nishantkumar012?chart=3dbar&weeks=34&theme=native&animation=wave" />
-</p>
